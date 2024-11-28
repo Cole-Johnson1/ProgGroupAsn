@@ -1,8 +1,7 @@
+// Author: Cole Johnson
+// Date: Nov 26th
 #define _CRT_SECURE_NO_WARNINGS
-// update.c
-// Author: [Your Name]
-// Date: [Insert Date]
-// Description: Implements the update appointment functionality.
+
 
 #include "update.h"
 

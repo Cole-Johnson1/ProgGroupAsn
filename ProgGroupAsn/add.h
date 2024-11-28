@@ -1,8 +1,5 @@
-// add.h
-// Author: [Your Name]
-// Date: [Insert Date]
-// Description: Header for the add appointment functionality.
-
+// Author: Cole Johnson
+// Date: Nov 26th
 #ifndef ADD_H
 #define ADD_H
 
@@ -10,4 +7,4 @@
 
 void addAppointment(Appointment** appts, int* count);
 
-#endif // ADD_H
+#endif 

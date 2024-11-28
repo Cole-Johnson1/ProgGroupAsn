@@ -1,8 +1,5 @@
-// update.h
-// Author: [Your Name]
-// Date: [Insert Date]
-// Description: Header for the update appointment functionality.
-
+// Author: Cole Johnson
+// Date: Nov 26th
 #ifndef UPDATE_H
 #define UPDATE_H
 
@@ -10,4 +7,4 @@
 
 void updateAppointment(Appointment* appts, int count, int id);
 
-#endif // UPDATE_H
+#endif 

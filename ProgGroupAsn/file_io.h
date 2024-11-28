@@ -1,3 +1,5 @@
+// Author: Cole Johnson
+// Date: Nov 26th
 #ifndef FILE_IO_H
 #define FILE_IO_H
 
@@ -6,4 +8,4 @@
 void saveAppointmentsToFile(Appointment* appts, int count);
 void loadAppointmentsFromFile(Appointment** appts, int* count);
 
-#endif // FILE_IO_H
+#endif 

@@ -1,3 +1,5 @@
+// Author: Cole Johnson
+// Date: Nov 26th
 #define _CRT_SECURE_NO_WARNINGS
 #include "display.h"
 

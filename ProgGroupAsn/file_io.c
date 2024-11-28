@@ -1,3 +1,5 @@
+// Author: Cole Johnson
+// Date: Nov 26th
 #include "file_io.h"
 
 void saveAppointmentsToFile(Appointment* appts, int count) {

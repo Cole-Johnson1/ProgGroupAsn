@@ -1,8 +1,5 @@
-// appointment.h
-// Author: [Your Name]
-// Date: [Insert Date]
-// Description: Shared definitions for the Appointment Manager.
-
+// Author: Cole Johnson
+// Date: Nov 26th
 #ifndef APPOINTMENT_H
 #define APPOINTMENT_H
 
@@ -22,4 +19,4 @@ typedef struct {
     time_t datetime; // UNIX timestamp
 } Appointment;
 
-#endif // APPOINTMENT_H
+#endif 

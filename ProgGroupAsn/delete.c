@@ -1,7 +1,5 @@
-// delete.c
-// Author: [Your Name]
-// Date: [Insert Date]
-// Description: Implements the delete appointment functionality.
+// Author: Cole Johnson
+// Date: Nov 26th
 
 #include "delete.h"
 
