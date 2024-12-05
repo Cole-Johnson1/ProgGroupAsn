@@ -12,7 +12,7 @@
 #define FILENAME "appointments.dat"
 
 // Appointment structure
-typedef struct {
+typedef struct appointment {
     int id;
     char title[50];
     char description[200];
