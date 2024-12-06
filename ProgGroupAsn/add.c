@@ -1,4 +1,4 @@
-//keno - prog71990- Group asssignment
+// Author: Ken
 //Date: Dec 6th 2024
 #define _CRT_SECURE_NO_WARNINGS
 
