@@ -1,5 +1,5 @@
 // Author: Cole Johnson
-// Date: Nov 26th
+// Date: Dec 6th 2024
 #define _CRT_SECURE_NO_WARNINGS
 #include "add.h"
 #include "delete.h"
@@ -13,7 +13,7 @@ int main() {
     int choice;
     int id;
 
-    loadAppointmentsFromFile(&appointments, &count);
+    loadAppointmentsFromFile(&appointments, &count);  //load our information from file
 
     while (1) {
         printf("\n=== Appointment Manager ===\n");
@@ -21,7 +21,7 @@ int main() {
         printf("Enter your choice: ");
         scanf("%d", &choice);
 
-        switch (choice) {
+        switch (choice) { 
         case 1:
             addAppointment(&appointments, &count);
             break;
